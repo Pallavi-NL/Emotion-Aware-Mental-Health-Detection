@@ -1,0 +1,11 @@
+This file lists all python libraries used:
+torch
+transformers
+opencv-python
+librosa
+numpy
+pandas
+scikit-learn
+reportlab
+deepface
+matplotlib
